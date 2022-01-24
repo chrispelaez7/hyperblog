@@ -4,5 +4,5 @@ tengo 29 años estudio git y github
 
 estoy haciendo las practicas de este programa
 
-pero tambien estoy aprendiendo linux 
-y un poco de html y css
+
+
